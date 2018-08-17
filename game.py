@@ -1,3 +1,8 @@
+"""
+Author: Kumar Mallikarjuna
+Completion Date: 20/11/2015
+"""
+
 from random import random
 
 import time, os, sys, random, thread
